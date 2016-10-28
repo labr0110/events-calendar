@@ -42,3 +42,15 @@ th {
   color: #991919;
   border: 1px solid #b92828;
 }
+
+.eventgreen {
+  background-color: #d1e0bf;
+  color: #51603f;
+  border: 1px solid #6b7e54;
+}
+
+.eventblue {
+  background-color: #d2d6f0;
+  color: #38448e;
+  border: 1px solid #1d38da;
+}
